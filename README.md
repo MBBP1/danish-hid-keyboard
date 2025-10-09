@@ -21,7 +21,7 @@ kb = DanishHIDKeyboard()
 kb.open_powershell()
 kb.type_string('echo "Hello from BadUSB!"')
 kb.enter()
-
+```
 
 ## Responsible Use
 This library is intended for:

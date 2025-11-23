@@ -13,6 +13,11 @@ A complete HID keyboard library for Danish keyboard layout, designed for Raspber
 - **Practical helper functions** 
 - **Tested and verified** 
 
+## Install
+```
+pip install danish-hid-keyboard
+```
+
 ## Quick Start
 ```python
 from danish_hid_library import DanishHIDKeyboard
